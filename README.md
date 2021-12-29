@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarmad-Khalique
-- 👀 I’m interested in Coding and Cricket
-- 🌱 I’m currently learning BS(CS) at University Of Punjab, Lahore
+- 👀 Interested in Coding, Data Sience and Cricket
+- 🌱 3rd Year Computer Science Student at Universiy of Punjab, Lahore.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sarmadkhalique001@gmail.com
 
