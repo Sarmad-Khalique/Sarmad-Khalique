@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarmad-Khalique
-- 👀 Interested in Coding, Data Sience and Cricket
+- 👀 Interested in Coding, Web Development, Data Sience and Cricket
 - 🌱 3rd Year Computer Science Student at Universiy of Punjab, Lahore.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects enhancing my skills.
 - 📫 How to reach me: sarmadkhalique001@gmail.com
 
 <!---
