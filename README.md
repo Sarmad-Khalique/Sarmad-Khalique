@@ -28,8 +28,8 @@ I am a passionate software engineer with a strong focus on building high-perform
 
 ## 🏆 Certifications
 
-- [HackerRank - Python Basics]([https://www.hackerrank.com/certificates/your-hackerrank-python-cert](https://www.hackerrank.com/certificates/ae7609b28929))
-- [Coursera - Python For Everybody Specialization]([https://www.coursera.org/account/accomplishments/certificate/your-coursera-web-dev-cert](https://www.coursera.org/account/accomplishments/specialization/certificate/MVK42NHPB6VA))
+- [HackerRank - Python Basics](https://www.hackerrank.com/certificates/ae7609b28929)
+- [Coursera - Python For Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MVK42NHPB6VA)
 
 ## 🌱 Passionate Learner
 
