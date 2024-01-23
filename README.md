@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm Sarmad Khalique, a Full Stack Software Engineer at CodeFulcrum.
+# Hey there! 👋 I'm Sarmad Khalique, a Full Stack Software Engineer.
 
 ## 🚀 About Me
 
-I am a passionate software engineer with a strong focus on building high-performance web applications. My expertise lies in using modern technologies such as Django, Flask, React JS, Next JS, Apollo GraphQL, and Redux to create robust and scalable solutions. I also have experience in native Android and iOS app development using Capacitor JS.
+I am a passionate software engineer with a strong focus on building high-performance web applications. My expertise lies in using modern technologies such as Django, Flask, React JS, Next JS, Apollo GraphQL, and Redux to create robust and scalable solutions. I also have experience in native Android and iOS app development using React Native.
 
 ## 💼 Experience
 
@@ -25,6 +25,7 @@ I am a passionate software engineer with a strong focus on building high-perform
 - Back-end: Python, Flask, Django
 - RESTful API Design, Database Management
 - Agile Methodologies, Git
+- Mobile App Development: React Native
 
 ## 🏆 Certifications
 
