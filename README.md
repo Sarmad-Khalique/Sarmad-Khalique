@@ -6,8 +6,14 @@ I am a passionate software engineer with a strong focus on building high-perform
 
 ## 💼 Experience
 
+- 🏢 Technical Team Lead at TorchSolutions
+    
 - 🏢 Software Engineer at CodeFulcrum
-  - Developing high-performance web applications using Flask, React JS, and Apollo GraphQL.
+  - Worked on an Energy Saving platform with over 1.5 Million users.
+  - Integrated [Telus](https://www.telus.com/en) api in the project to increase users enagagment in the app.
+  - Used celery to efficiently distribute the load and improve performance.
+  - Leveraged AWS serives like cloudwatch, S3 and Ec2 instances to monitor and fix issues in the application.
+  - Developied high-performance web applications using Flask, React JS, Django, Vue, Django Rest Framework and GraphQL.
 
 - 🏢 Software Engineer at East West Soft
   - Created full-stack web apps with APIs using Django Rest Framework and front-end using Next JS.
