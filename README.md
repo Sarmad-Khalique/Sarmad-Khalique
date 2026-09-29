@@ -48,7 +48,7 @@ Conversational AI agent for lead qualification, customer engagement, and automat
 
 ### Software Engineer @ CodeFulcrum
 
-* Built and maintained an Energy Saving platform serving 1.5M+ users.
+* Built and maintained an Energy Saving platform serving 200k+ active users.
 * Integrated Telus APIs to improve customer engagement and platform capabilities.
 * Developed distributed systems using Celery for background task processing.
 * Leveraged AWS services including CloudWatch, S3, and EC2 for monitoring and deployment.
